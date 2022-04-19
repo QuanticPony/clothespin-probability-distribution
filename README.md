@@ -1,6 +1,6 @@
 # Clothes pin probability distribution
 ## Introduction
-$N$ clothes pins with a width of $2\sigma$, a string of length $L$. The clothes pins can not overlap and must be uniformly distributed over the string.
+N clothes pins with a width of 2σ, a string of length L. The clothes pins can not overlap and must be uniformly distributed over the string.
 ![image](imgs/Teorical%20model2.PNG)
 
 ## Objective
