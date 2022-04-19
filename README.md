@@ -9,6 +9,7 @@ Obtain the aproximate probability distribution of clothes pin positions in the e
 
 ## Theoretical result
 The goal distribution should look like the following:
+
 ![image](imgs/Teorical%20model.PNG)
 
 ## My solution
